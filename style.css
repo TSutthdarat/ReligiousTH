@@ -180,7 +180,7 @@
 /*** Courses ***/
 .courses {
     min-height: 100vh;
-    background: linear-gradient(rgba( 211, 211, 211, .9), rgba( 211, 211, 211, .9)), url(/Users/sutthidaratthongta/Documents/religious1/mutelu.jpeg) center center no-repeat;
+    background: linear-gradient(rgba( 211, 211, 211, .9), rgba( 211, 211, 211, .9)), url(mutelu.jpeg) center center no-repeat;
     background-attachment: fixed;
     background-size: cover;
 }
